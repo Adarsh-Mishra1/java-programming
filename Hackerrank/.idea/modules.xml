@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gfg-potd/gfg-potd.iml" filepath="$PROJECT_DIR$/gfg-potd/gfg-potd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwdsa.iml" filepath="$PROJECT_DIR$/pwdsa.iml" />
+    </modules>
+  </component>
+</project>
