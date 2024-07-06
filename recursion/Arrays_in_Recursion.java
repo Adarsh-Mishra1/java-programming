@@ -23,12 +23,14 @@ public class Arrays_in_Recursion
         }
         print_occurunc(arr,target,idx+1);
     }
+
+
     static int sum(int[] arr,int idx){
         if(idx==arr.length-1){
             return arr[idx];
         }
-        //This function call will give me previous num in sum var, then i will add the current idx value
-        //with previous sum and this circle will goes continuously back 
+    //This function call will give me previous num in sum var, then I will add the current idx value
+    //with previous sum and this circle will goes continuously back
         int sum=sum(arr,idx+1);
         return sum+arr[idx];
     }

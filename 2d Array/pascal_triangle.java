@@ -25,7 +25,7 @@ public class pascal_triangle {
             return 1;
         }
         //In combination when we solve the n!/r!*n-r! we get the following pattern when we solve, which i implemented here
-        //Take idea from striver bhaiy
+        //Take idea from striver bhaiya
         for(int i=1;i<=r;i++){
             numerator*=n;
             denominator*=i;

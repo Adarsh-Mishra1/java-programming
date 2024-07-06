@@ -31,7 +31,6 @@ public class MergeSort
             }else{
                 arr[k++]=arr2[j++];
             }
-
         }
 
         while (i < n1) {

@@ -31,7 +31,7 @@ public class BasicString
     }
     public static void main(String[] args) {
         String[][] str1= {{"Adarsh"}, {"Mishra"}};
-        String[] str= {"first","second"};
+        String[] str = {"first","second"};
         //System.out.println(str[0]+" "+str[1]);
         //System.out.println(str1[0][0].charAt(0)+" "+str1[1][0]);
         String test="adr";

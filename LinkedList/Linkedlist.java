@@ -5,7 +5,6 @@ public class Linkedlist
      private static class Node{
         int data;
         Node next;
-
         Node(int x){
             data=x;
             next=null;
